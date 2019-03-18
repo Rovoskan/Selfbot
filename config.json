@@ -1,5 +1,5 @@
 {
     "token": "votre token",
-    "EmbedsColor": "La couleur que vous voulez pour les embed.",
+    "EmbedsColor": "La couleur que vous voulez pour les embed.",  // ex : #23272a 
     "commandprefix": "Le préfix que vous souhaitez mettre pour les commandes."
 }
