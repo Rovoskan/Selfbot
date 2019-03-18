@@ -20,3 +20,5 @@ Et il devrait se lancer.
 
 Rentrez vos paramètres dans le config.json,
 Pour avoir votre token suivez ce tutoriel : https://www.youtube.com/watch?v=NWB3fGafJwk
+
+Pour le EmbedColros dans config.json veuillez rentrer les couleurs dans ce format : #23272a ( ceci est noir/gris ).
