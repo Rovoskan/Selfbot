@@ -2,7 +2,8 @@
 SelfBot By Rovoskan.
 
 
-Si vous rencontrez une erreur sur le selfbot faites les commandes suivantes 
+Vous devez faire ses commandes dans un cmd avant d'utiliser le selfbot :
+cd 'url de votre fichier'
 npm install discord.js
 npm install request
 
