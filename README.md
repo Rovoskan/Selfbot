@@ -13,7 +13,10 @@ Vous voulez me contacter sur discord ? Mon discord : Rovoskan#2320
 
 Pour lancer le selfbot faites les étapes suivantes :
 Ouvrez un CMD
-Faites cd "url d'où se situe le fichier ex :C:\Users\root\Desktop\selfbot"
+Faites cd "url d'où se situe le fichier ex: C:\Users\root\Desktop\selfbot"
 Ensuite faites node index.js
 
 Et il devrait se lancer.
+
+Rentrez vos paramètres dans le config.json,
+Pour avoir votre token suivez ce tutoriel : https://www.youtube.com/watch?v=NWB3fGafJwk
