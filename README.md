@@ -1,6 +1,7 @@
 # Selfbot
 SelfBot By Rovoskan.
 
+Configurez le config.json une fois toutes les manipulations faites.
 
 Vous devez faire ses commandes dans un cmd avant d'utiliser le selfbot :
 cd 'url de votre fichier'
