@@ -26,6 +26,6 @@ Pour le EmbedColros dans config.json veuillez rentrer les couleurs dans ce forma
 
 //////////////////////////////////////////////////////////////////////////
 
-Edit : mon nouveau discord : Rovoskan | E.N.S#2320
+Edit : mon nouveau discord : Rovoskan | E.N.S#2320 / Ce compte a été banni, flemme de modifier les lignes de commandes pour remettre mon compte, ajoutez moi si vous avez un problème : $ BROD | Rovoskan | E.N.S#4382
 
 //////////////////////////////////////////////////////////////////////////
