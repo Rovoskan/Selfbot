@@ -7,6 +7,7 @@ Vous devez faire ses commandes dans un cmd avant d'utiliser le selfbot :
 cd 'url de votre fichier'
 npm install discord.js
 npm install request
+npm i ascii-art
 
 Ne chougez rien sur le selfbot sinon vous pourrez tout perdre.
 
